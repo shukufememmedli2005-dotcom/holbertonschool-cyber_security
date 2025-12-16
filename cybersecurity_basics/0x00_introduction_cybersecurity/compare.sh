@@ -1,2 +1,2 @@
 #!/bin/bash
-decoded=$(cat | base64 --decode 2>/dev/null) && [[ "$decoded" == *"lsb_release"* ]] && echo ok || echo invalid
+decoded=$(echo "$1" | base64 --decode 2>/dev/null) && [[ "$decoded" == *"lsb_release"* ]] && echo ok || echo invalid
