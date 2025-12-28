@@ -1,2 +1,2 @@
 #!/bin/bash
-whois "$1" > /dev/null
+whois "$1" | awk '/Registrant/ { print }'
