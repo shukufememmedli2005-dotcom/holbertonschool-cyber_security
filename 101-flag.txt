@@ -1,1 +1,7 @@
-123456789@E8UWP9A2
++----+--------------------+---------------------+----------+
+| id | email              | password            | username |
++----+--------------------+---------------------+----------+
+| 1  | yosri@active.hbtn  | 123456789@E8UWP9A2  | yosri    |
+| 2  | maroua@active.hbtn | admin123@E8UWP9A2   | maroua   |
+| 3  | abdou@active.hbtn  | abdouabdou@E8UWP9A2 | abdou    |
++----+--------------------+---------------------+----------+
