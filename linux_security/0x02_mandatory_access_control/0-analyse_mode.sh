@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo setstatus
+sudo sestatus
