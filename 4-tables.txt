@@ -1,4 +1,0 @@
-Admins   |
-| Orders   |
-| Products |
-| Users 
